@@ -8,3 +8,10 @@
 #### Feature Engineering: You can include custom feature engineering steps, such as creating new features or dimensionality reduction.
 
 #### Model Building: The pipeline can end with a machine learning model, which can be a classifier or regressor, depending on the problem.
+
+#### There are 4 notebooks 
+
+#### 1. Creating Machine Learning steps without implementing Pipeline
+#### 2. Prediction on new data without implementing Pipeline
+#### 3. Pipeline creation for end-to-end ML Process
+#### 4. Prediction on new data from the pipeline object
